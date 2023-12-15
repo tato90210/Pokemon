@@ -18,7 +18,7 @@ const Data = () => {
           </div>
           <div className="col-md-6">
             <p>
-              Los Pokémon son criaturas de todo tipo de formas y tamaños que viven
+              Los Pokémon, son criaturas de todo tipo de formas y tamaños que viven
               bien en un medio salvaje o junto a los seres humanos. La mayoría de
               los Pokémon solo hablan para decir sus nombres. En la actualidad,
               hay más de 700 criaturas que habitan el universo Pokémon.
